@@ -1,3 +1,9 @@
+## Running the Log Generator
+
+To run the log generator script:
+
+```bash
+python -m lib.generate_log
 
 # Module Lab: Automating Python Projects with Pip, PyPi & Scripting
 
